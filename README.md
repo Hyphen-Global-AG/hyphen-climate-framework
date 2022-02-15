@@ -31,7 +31,7 @@ Our Framework allows to query and verify [atmospheric gas timeseries from ICOS](
 
 COMMENT: we need to document all contracts and review what methods belong to what contract, wich ones are private (only for oracle owner / node operators) and which ones are for endconsumers. 
 
-Contract Code (GIT): https://github.com/Hyphen-Global-AG/hyphen-climate-framework/ClimateConsumer.sol
+Contract Code (GIT): https://github.com/Hyphen-Global-AG/hyphen-climate-framework/blob/main/ClimateConsumer.sol
 
 - Solidity version (pragma solidity ^0.8.7;)
 - Compile with Remix (https://remix.ethereum.org/) using Injected Web3, set deployed address in remix (At Address) - 
