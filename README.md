@@ -11,7 +11,7 @@ Our Framework is built on a [REST](https://de.wikipedia.org/wiki/Representationa
 
 Find more information on Hyphen Global and our initiatives on our website https://www.hyphen.earth/
 
-<a href="https://chain.link/"><img src="https://www.anyblockanalytics.com/wp-content/uploads/2019/12/Chainlink-v2.2.png" alt="Chainlink" width="200"/></a>
+<a href="https://chain.link/"><img src="https://www.anyblockanalytics.com/wp-content/uploads/2019/12/Chainlink-v2.2.png" alt="Chainlink" width="300"/></a>
 <a href="https://www.icos-cp.eu/index.php/"><img src="https://www.icos-cp.eu/sites/default/files/2020-04/ICOS_logo_rgb_regular.png" alt="Integrated Carbon Observation System" width="200"/></a>
 <a href="https://ethereum.org/en/"><img src="https://logospng.org/download/ethereum/logo-ethereum-4096.png" alt="Ethereum" width="200"/></a>
 # Quick Start
