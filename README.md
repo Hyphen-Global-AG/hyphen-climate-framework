@@ -1,4 +1,4 @@
-<a href="https://www.hyphen.earth/"><img src="https://github.com/Hyphen-Global-AG/hyphen-climate-framework/blob/main/Hyphen_logo_final_hor.png" alt="Hyphen Global AG" width="400"/></a>
+<a href="https://www.hyphen.earth/"><img src="https://github.com/Hyphen-Global-AG/hyphen-climate-framework/blob/main/.github/Hyphen_logo_final_hor.png?raw=true" alt="Hyphen Global AG" width="400"/></a>
 
 
 # Hyphen Climate API & Smart Contract Framework
