@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// Hyphen Climate Framework Consumer Contract
 
 pragma solidity ^0.8.7;
 
