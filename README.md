@@ -38,6 +38,8 @@ Contract Code (GIT): https://github.com/Hyphen-Global-AG/hyphen-climate-framewor
 
 **Hyphen Climate Framework Contract Address**
 
+*NOTE 15/02/2022 - we are deploying new contract versions at this moment, documentation will be updated shortly.
+
 (Ethereum - Rinkeby)
 > 0x623d8C9816252eD454Eeb584b803860269f0f84c
 Etherscan Rinkeby: [0x623d8C9816252eD454Eeb584b803860269f0f84c](https://rinkeby.etherscan.io/address/0x623d8C9816252eD454Eeb584b803860269f0f84c)
