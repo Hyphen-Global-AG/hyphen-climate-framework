@@ -38,15 +38,15 @@ Contract Code (GIT): https://github.com/Hyphen-Global-AG/hyphen-climate-framewor
 
 **Hyphen Climate Framework Contract Address**
 
-*NOTE 15/02/2022 - we are deploying new contract versions at this moment, documentation will be updated shortly.
+*NOTE 16/02/2022 - oracle contract addresses updated.
 
 (Ethereum - Rinkeby)
-> 0x623d8C9816252eD454Eeb584b803860269f0f84c
-Etherscan Rinkeby: [0x623d8C9816252eD454Eeb584b803860269f0f84c](https://rinkeby.etherscan.io/address/0x623d8C9816252eD454Eeb584b803860269f0f84c)
+> 0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3
+Etherscan Rinkeby: [0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3](https://rinkeby.etherscan.io/address/0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3)
 
 (Ethereum - Mainnet)
-> 0xBcd0721Bfcc51E0AeE3d1AdE658276526C903729
-Etherscan Mainnet: [0xBcd0721Bfcc51E0AeE3d1AdE658276526C903729](https://rinkeby.etherscan.io/address/0xBcd0721Bfcc51E0AeE3d1AdE658276526C903729)
+> 0x352e2178BdccB5306D3e42F3a593a0692d49319B
+Etherscan Mainnet: [0x352e2178BdccB5306D3e42F3a593a0692d49319B](https://rinkeby.etherscan.io/address/0x352e2178BdccB5306D3e42F3a593a0692d49319B)
 
 **Parameter Definitions**
 
