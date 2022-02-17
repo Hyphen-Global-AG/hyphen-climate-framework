@@ -46,7 +46,7 @@ Etherscan Rinkeby: [0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3](https://rinkeby.
 
 (Ethereum - Mainnet)
 > 0x352e2178BdccB5306D3e42F3a593a0692d49319B
-Etherscan Mainnet: [0x352e2178BdccB5306D3e42F3a593a0692d49319B](https://rinkeby.etherscan.io/address/0x352e2178BdccB5306D3e42F3a593a0692d49319B)
+Etherscan Mainnet: [0x352e2178BdccB5306D3e42F3a593a0692d49319B](https://etherscan.io/address/0x352e2178BdccB5306D3e42F3a593a0692d49319B)
 
 **Parameter Definitions**
 
