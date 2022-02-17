@@ -70,7 +70,8 @@ Etherscan Mainnet: [0x352e2178BdccB5306D3e42F3a593a0692d49319B](https://rinkeby.
 
 | Method | Description | Parameter (use in order!) |
 | ------ | ------ | ------ |
-| requestClimateHash | Returns file hash via Chainlink Oracle | stationId, heightId, startDate, endDate, startTime, endTime | 
+| requestClimateHash | Returns file hash via Chainlink Oracle | stationId, heightId, startDate, endDate, startTime, endTime |
+| getFileHashforParams | Returns the file hash after it has been delivered by Oracle | stationId, heightId, startDate, endDate, startTime, endTime |
 | generateRequestHash | Generates a hash of input parameters | stationId, heightId, startDate, endDate, startTime, endTime |
 | fullfillClimateHash* | Fullfills hash request | requestId, hash |
 | cancelRequest | cancel the current request | requestId, payment, callbackFunctionId, expiration |
