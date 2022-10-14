@@ -162,22 +162,3 @@ Description: Returns the DataSet for a specific station, height and time period.
 Example:
 > https://climate-ui-dev.hyphen.earth/api/stations/17/data?height=100.0&dateFrom=2021-07-01&dateTo=2021-07-03
 
--------------------------------------------------------------------------------------------------------
-
-**Get only hash**
-
-Endpoint: 'https://climate-ui-dev.hyphen.earth/api/stations/{stationId}/onlyHash/{heightId}/{startDate}/{endDate}/{startTime}/{endTime}'
-
-Description: Returns the hash of a specific Dataset only.
-
-| Parameter | Description |
-| ------ | ------ |
-| stationId | Station ID String "6f16e3d5-a8e2-415f-96a4-492e7716da76" |
-| heightId | Height of Measurement Numeric "82.0" |
-| startDate | Start Date as Date "2021-02-01" |
-| endDate | End Date as Date "2022-01-05" |
-| startTime | 4 digit Numeric (hhmm) / 1 pm = "1300" |
-| endTime | 4 digit Numeric (hhmm) |
-
-Example:
-> https://climate-ui-dev.hyphen.earth/api/stations/6f16e3d5-a8e2-415f-96a4-492e7716da76/onlyHash/82.0/2021-02-01/2022-01-05/0000/2300
