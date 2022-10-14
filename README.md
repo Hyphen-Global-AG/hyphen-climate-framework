@@ -114,10 +114,10 @@ Description: Returns a list of all DataSets for the respective measurement stati
 
 | Parameter | Description |
 | ------ | ------ |
-| stationId | Station ID String "95629f76-a96e-4bc0-85e9-c6946e83b546" |
+| stationId | Station ID String "17" |
 
 Example: 
-> https://climate-ui-dev.hyphen.earth/api/stations/6f16e3d5-a8e2-415f-96a4-492e7716da76
+> https://climate-ui-dev.hyphen.earth/api/stations/17
 
 -------------------------------------------------------------------------------------------------------
 
