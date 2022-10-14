@@ -132,12 +132,10 @@ Description: Returns the DataSet for a specific station, height and time period.
 
 | Parameter | Description |
 | ------ | ------ |
-| stationId | Station ID String "6f16e3d5-a8e2-415f-96a4-492e7716da76" |
-| heightId | Height of Measurement Numeric "82.0" |
-| startDate | Start Date as Date "2021-02-01" |
-| endDate | End Date as Date "2022-01-05" |
-| startTime | 4 digit Numeric (hhmm) / 1 pm = "1300" |
-| endTime | 4 digit Numeric (hhmm) |
+| stationId | Station ID Numeric "17" |
+| height | Height of Measurement Numeric "82.0" |
+| dateFrom | Start Date as Date "2021-02-01" |
+| dateTo | End Date as Date "2022-01-05" |
 
 Example:
 > https://climate-ui-dev.hyphen.earth/api/stations/17/height/100.0/
@@ -152,12 +150,10 @@ Description: Returns the DataSet for a specific station, height and time period.
 
 | Parameter | Description |
 | ------ | ------ |
-| stationId | Station ID String "6f16e3d5-a8e2-415f-96a4-492e7716da76" |
-| heightId | Height of Measurement Numeric "82.0" |
-| startDate | Start Date as Date "2021-02-01" |
-| endDate | End Date as Date "2022-01-05" |
-| startTime | 4 digit Numeric (hhmm) / 1 pm = "1300" |
-| endTime | 4 digit Numeric (hhmm) |
+| stationId | Station ID Numeric "17" |
+| height | Height of Measurement Numeric "82.0" |
+| dateFrom | Start Date as Date "2021-02-01" |
+| dateTo | End Date as Date "2022-01-05" |
 
 Example:
 > https://climate-ui-dev.hyphen.earth/api/stations/17/data?height=100.0&dateFrom=2021-07-01&dateTo=2021-07-03
