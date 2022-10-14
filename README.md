@@ -158,3 +158,29 @@ Description: Returns the DataSet for a specific station, height and time period.
 Example:
 > https://climate-ui-dev.hyphen.earth/api/stations/17/data?height=100.0&dateFrom=2021-07-01&dateTo=2021-07-03
 
+-------------------------------------------------------------------------------------------------------
+
+**Get a list of all atmospheric gases**
+
+Endpoint: `https://climate-ui-dev.hyphen.earth/api/gases`
+
+Description: Returns a table with all gases and id's.
+
+Example:
+> https://climate-ui-dev.hyphen.earth/api/gases
+
+-------------------------------------------------------------------------------------------------------
+
+**Get All Datasets for specific Gas**
+
+Endpoint: `https://climate-ui-dev.hyphen.earth/api/stations/{stationId}
+
+Description: Returns the DataSet for a specific station, height and time period.
+
+| Parameter | Description |
+| ------ | ------ |
+| stationId | Station ID Numeric "17" |
+| gas | Name of Gas as String "CO2" |
+
+Example:
+> https://climate-ui-dev.hyphen.earth/api/stations/17/data?gas=CO2
