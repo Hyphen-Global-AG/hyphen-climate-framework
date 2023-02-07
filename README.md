@@ -165,8 +165,8 @@ Request URL: `https://portal-api.hyphen.earth/api/layers`
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4, WAO, ZEP, ZSF` | Yes | string |
+| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `MM`  | Yes | integer |
 | day | query | Day, format: `DD` | Yes | integer |
@@ -185,8 +185,8 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4, WAO, ZEP, ZSF` | Yes | string |
+| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `MM`  | Yes | integer |
 | day | query | Day, format: `DD` | Yes | integer |
@@ -205,8 +205,8 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4, WAO, ZEP, ZSF` | Yes | string |
+| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=CO2`
@@ -222,8 +222,8 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4, WAO, ZEP, ZSF` | Yes | string |
+| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest_detailed?cpmetaStationId=HPB&gasName=CO2`
@@ -239,7 +239,7 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB` | Yes | string |
+| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `MM`  | Yes | integer |
 | day | query | Day, format: `DD` | Yes | integer |
@@ -276,7 +276,7 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| gasName | query | Gas name: e.g. `CO2, CH4, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `MM`  | Yes | integer |
 | day | query | Day, format: `DD` | Yes | integer |
