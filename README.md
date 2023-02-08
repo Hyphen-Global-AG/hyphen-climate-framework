@@ -16,8 +16,8 @@ Find more information on Hyphen Global and our initiatives on our website https:
 
 # Portal DataSets (Atmospheric Gases)
 
-Gases: CH4(PPB), CO(PPM), CO2(PPM), N2O(PPM)
-Organisations: ICOS (https://www.icos-cp.eu/), NOAA (https://www.noaa.gov/)
+Gases: CH4(PPB), CO(PPM), CO2(PPM), N2O(PPM).  
+Organisations: ICOS (https://www.icos-cp.eu/), NOAA (https://www.noaa.gov/).
 
 
 # Oracles SmartContracts for Greenhouse Gases Daily Averages 
@@ -45,7 +45,7 @@ Endpoint: `https://portal-api.hyphen.earth/`
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
 | PageNumber | query | Number of a page | No | integer |
-| PageSize | query | Amount of times per one page | No | integer |
+| PageSize | query | Items count per one page | No | integer |
 
 ##### Example 
 Request URL: `https://portal-api.hyphen.earth/api/stations`
@@ -54,7 +54,7 @@ Request URL: `https://portal-api.hyphen.earth/api/stations`
 
 ### /api/stations/{id}
 
-**Description:** Returns all measurement stations of specific station
+**Description:** Returns specific measurement station
 
 #### GET
 ##### Parameters
@@ -70,22 +70,22 @@ Request URL: `https://portal-api.hyphen.earth/api/stations/1007`
 
 ### /api/layers
 
-**Description:** Returns a list of all layers
+**Description:** Returns a list of all data objects.
 
 #### GET
 ##### Parameters
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| themeName | query | Climate data type | No | string |
-| samplingHeight | query | Station height | No | double |
-| time_from | query | Time from | No | dateTime |
-| time_to | query | Time to | No | dateTime |
+| themeName | query | Theme of climate data (like atmospheric, oceanic) | No | string |
+| samplingHeight | query | Station measurement sampling height | No | double |
+| time_from | query | Data acquisition start time | No | dateTime |
+| time_to | query | Data acquisition end time | No | dateTime |
 | station_id | query | Station ID number | No | long |
-| dataTypeLabel | query | Descption of the layer | No | string |
+| dataTypeLabel | query | Descption of the data object | No | string |
 | dataLevel | query | Data level | No | integer |
 | PageNumber | query | Number of a page | No | integer |
-| PageSize | query | Amount of times per one page | No | integer |
+| PageSize | query | Items count per one page | No | integer |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/layers`
@@ -101,11 +101,11 @@ Request URL: `https://portal-api.hyphen.earth/api/layers`
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
+| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
-| month | query | Month, format: `MM`  | Yes | integer |
-| day | query | Day, format: `DD` | Yes | integer |
+| month | query | Month, format: `M`  | Yes | integer |
+| day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage?cpmetaStationId=HPB&gasName=CO2&year=2022&month=11&day=11`
@@ -121,11 +121,11 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
+| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
-| month | query | Month, format: `MM`  | Yes | integer |
-| day | query | Day, format: `DD` | Yes | integer |
+| month | query | Month, format: `M`  | Yes | integer |
+| day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_detailed?cpmetaStationId=HPB&gasName=CO2&year=2022&month=11&day=11`
@@ -141,8 +141,8 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
+| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=CO2`
@@ -151,15 +151,15 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 ### /api/station_gas_allheights_dailyaverage_latest_detailed
 
-**Description:** Returns the latest detailed daily average measurement
+**Description:** Returns the detailed latest daily average measurement
 
 #### GET
 ##### Parameters
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
-| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
+| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest_detailed?cpmetaStationId=HPB&gasName=CO2`
@@ -168,17 +168,17 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 ### /api/station_gas_allheights_dailyaverage_combinations_oneStationAllGases_specifiedDate
 
-**Description:** Returns a list of daily average measurement of specific station of all gases
+**Description:** Returns a list of daily average measurements of specific station of all gases
 
 #### GET
 ##### Parameters
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
+| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
-| month | query | Month, format: `MM`  | Yes | integer |
-| day | query | Day, format: `DD` | Yes | integer |
+| month | query | Month, format: `M`  | Yes | integer |
+| day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_oneStationAllGases_specifiedDate?cpmetaStationId=HPB&year=2022&month=11&day=11`
@@ -187,7 +187,7 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 ### /api/station_gas_allheights_dailyaverage_combinations_allStationsAllGases_specifiedDate
 
-**Description:** Returns a list of daily average measurement of all stations of all gases
+**Description:** Returns a list of daily average measurements of all stations of all gases
 
 #### GET
 ##### Parameters
@@ -195,8 +195,8 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
 | year | query | Year, format: `YYYY` | Yes | integer |
-| month | query | Month, format: `MM`  | Yes | integer |
-| day | query | Day, format: `DD` | Yes | integer |
+| month | query | Month, format: `M`  | Yes | integer |
+| day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_allStationsAllGases_specifiedDate?year=2022&month=12&day=31`
@@ -205,17 +205,17 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 ### /api/station_gas_allheights_dailyaverage_combinations_allStationsOneGas_specifiedDate
 
-**Description:** Returns a list of daily average measurement of all stations of specific gases
+**Description:** Returns a list of daily average measurements of all stations of specific gas
 
 #### GET
 ##### Parameters
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| gasName | query | Gas name: e.g. `CO2, CH4` | Yes | string |
+| gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
-| month | query | Month, format: `MM`  | Yes | integer |
-| day | query | Day, format: `DD` | Yes | integer |
+| month | query | Month, format: `M`  | Yes | integer |
+| day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
 Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_allStationsOneGas_specifiedDate?gasName=CH4&year=2022&month=11&day=11`
