@@ -1,9 +1,9 @@
 <a href="https://www.hyphen.earth/"><img src="https://github.com/Hyphen-Global-AG/hyphen-climate-framework/blob/main/.github/Hyphen_logo_final_hor.png?raw=true" alt="Hyphen Global AG" width="400"/></a>
 
 
-# Hyphen Climate API & Smart Contract Framework
+# Hyphen Climate Portal
 
-The Hyphen Climate API and Smart Contract Framework allows organizations to interact with and verify GHG and ODS data provided by ICOS (Integrated Carbon Observation System - "https://www.icos-cp.eu/index.php/"), NOAA and other scientific organizations undearneath the WMO via the Blockchain. 
+The Hyphen Climate API and Oracle Network allows organizations to interact with and verify GHG and ODS data provided by ICOS (Integrated Carbon Observation System - "https://www.icos-cp.eu/index.php/"), NOAA and other scientific organizations undearneath the WMO via the Blockchain. 
 
 As more and more public sector guidance rolls out and regulatory oversight focuses on climate risk mitigation, the Hyphen Framework is ready to serve relevant GHG and ODS data to smart contracts automating and augmenting climate action.
 
