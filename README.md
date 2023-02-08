@@ -18,16 +18,11 @@ Find more information on Hyphen Global and our initiatives on our website https:
 
 Our Framework allows to query and verify [atmospheric gas timeseries from ICOS](https://data.icos-cp.eu/portal/#%7B%22filterCategories%22%3A%7B%22project%22%3A%5B%22icos%22%5D%2C%22level%22%3A%5B1%2C2%5D%2C%22stationclass%22%3A%5B%22ICOS%22%5D%2C%22theme%22%3A%5B%22atmosphere%22%5D%7D%2C%22filterKeywords%22%3A%5B%22N2O%22%5D%7D) (Prototype).
 
-**3 simple steps**
-1. Query for a specific DataSet
-2. Download Data
-3. Verify file hash
-
 # ICOS DataSets
 
 - [N2O](https://en.wikipedia.org/wiki/Nitrous_oxide) / [ICOS Data](https://data.icos-cp.eu/portal/#%7B%22filterCategories%22%3A%7B%22project%22%3A%5B%22icos%22%5D%2C%22level%22%3A%5B1%2C2%5D%2C%22stationclass%22%3A%5B%22ICOS%22%5D%2C%22theme%22%3A%5B%22atmosphere%22%5D%7D%2C%22filterKeywords%22%3A%5B%22N2O%22%5D%7D) (Prototype)
 
-# Oracles for Greenhouse Gases Daily Averages 
+# Oracles SmartContracts for Greenhouse Gases Daily Averages 
 
 - Documentation Update outstanding (08/02/2023)
 
