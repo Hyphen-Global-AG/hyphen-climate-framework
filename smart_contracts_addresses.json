@@ -1,0 +1,863 @@
+[
+	{
+		"fluxSmartContractAddress": "0xDD935ad7c099a862cA6f28C987e5D6A899E655Cb",
+		"explorerLink": "https://snowtrace.io/address/0xDD935ad7c099a862cA6f28C987e5D6A899E655Cb",
+		"stationGasCombinationId": "BIR CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_BIR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=BIR&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xF07e7bA4a5B18b62a1965A180e116f5bAa15DF41",
+		"explorerLink": "https://snowtrace.io/address/0xF07e7bA4a5B18b62a1965A180e116f5bAa15DF41",
+		"stationGasCombinationId": "BIR CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_BIR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=BIR&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x6968Adb878975714663B5B263D699b8c82e8416b",
+		"explorerLink": "https://snowtrace.io/address/0x6968Adb878975714663B5B263D699b8c82e8416b",
+		"stationGasCombinationId": "BIR CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_BIR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=BIR&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xB011507de6a69bc60E0AbBE148220f12040D72De",
+		"explorerLink": "https://snowtrace.io/address/0xB011507de6a69bc60E0AbBE148220f12040D72De",
+		"stationGasCombinationId": "CMN CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_CMN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=CMN&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xC67BEA36048cB45A735ceDc3D8061999Dfe322DE",
+		"explorerLink": "https://snowtrace.io/address/0xC67BEA36048cB45A735ceDc3D8061999Dfe322DE",
+		"stationGasCombinationId": "CMN CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_CMN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=CMN&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xE58B975B59002959cC0177771eE0423b27a31d45",
+		"explorerLink": "https://snowtrace.io/address/0xE58B975B59002959cC0177771eE0423b27a31d45",
+		"stationGasCombinationId": "CMN CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_CMN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=CMN&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x7B21932B630C4c62bf8200ea078cEA98af49F965",
+		"explorerLink": "https://snowtrace.io/address/0x7B21932B630C4c62bf8200ea078cEA98af49F965",
+		"stationGasCombinationId": "GAT CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_GAT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=GAT&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x7805D9140a2dBbB3AA4112F1d146489c18c410b9",
+		"explorerLink": "https://snowtrace.io/address/0x7805D9140a2dBbB3AA4112F1d146489c18c410b9",
+		"stationGasCombinationId": "GAT CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_GAT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=GAT&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x01318DfD7E31cd967473F15F7c43e1eD64C52b55",
+		"explorerLink": "https://snowtrace.io/address/0x01318DfD7E31cd967473F15F7c43e1eD64C52b55",
+		"stationGasCombinationId": "GAT CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_GAT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=GAT&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x60e56D1F91f2f902Fac8C04C3EC9c775E7a19Fec",
+		"explorerLink": "https://snowtrace.io/address/0x60e56D1F91f2f902Fac8C04C3EC9c775E7a19Fec",
+		"stationGasCombinationId": "GAT N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_GAT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=GAT&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x53bF8BfA15A97E643B7E9B2f14e18D1960351cCc",
+		"explorerLink": "https://snowtrace.io/address/0x53bF8BfA15A97E643B7E9B2f14e18D1960351cCc",
+		"stationGasCombinationId": "HEL CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HEL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HEL&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x80Fcd845182cb74Dff2f68fe25d8Fb574411db8D",
+		"explorerLink": "https://snowtrace.io/address/0x80Fcd845182cb74Dff2f68fe25d8Fb574411db8D",
+		"stationGasCombinationId": "HEL CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HEL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HEL&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xf0cd2CEEB17b6dBD88060C4e1614cf74a29DE532",
+		"explorerLink": "https://snowtrace.io/address/0xf0cd2CEEB17b6dBD88060C4e1614cf74a29DE532",
+		"stationGasCombinationId": "HEL CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HEL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HEL&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xEC1Ab8b272784f2067B865715538e4627663FE81",
+		"explorerLink": "https://snowtrace.io/address/0xEC1Ab8b272784f2067B865715538e4627663FE81",
+		"stationGasCombinationId": "HEL N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HEL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HEL&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x1e3dBe8155Ec3011d38451a5e171763BB4a17FAE",
+		"explorerLink": "https://snowtrace.io/address/0x1e3dBe8155Ec3011d38451a5e171763BB4a17FAE",
+		"stationGasCombinationId": "HPB CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HPB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xB47277f3DF89D4dfd6BFf09C98B540Db19b97C46",
+		"explorerLink": "https://snowtrace.io/address/0xB47277f3DF89D4dfd6BFf09C98B540Db19b97C46",
+		"stationGasCombinationId": "HPB CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HPB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xA3451a7Bef12cdFB1E38dcdf3D00028D04E1002e",
+		"explorerLink": "https://snowtrace.io/address/0xA3451a7Bef12cdFB1E38dcdf3D00028D04E1002e",
+		"stationGasCombinationId": "HPB CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HPB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x03Ef73ae9065252eBFADED013e9c0c4512203efA",
+		"explorerLink": "https://snowtrace.io/address/0x03Ef73ae9065252eBFADED013e9c0c4512203efA",
+		"stationGasCombinationId": "HPB N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HPB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xcA5da49FC270F6E634e2b656973EDe9bBEc2A826",
+		"explorerLink": "https://snowtrace.io/address/0xcA5da49FC270F6E634e2b656973EDe9bBEc2A826",
+		"stationGasCombinationId": "HTM CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HTM",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HTM&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x9d560502316Dd3B5f373550a116a57d46A78AE1d",
+		"explorerLink": "https://snowtrace.io/address/0x9d560502316Dd3B5f373550a116a57d46A78AE1d",
+		"stationGasCombinationId": "HTM CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HTM",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HTM&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x954eBaB09AFded55572c3aB50dDc755cD9eb384E",
+		"explorerLink": "https://snowtrace.io/address/0x954eBaB09AFded55572c3aB50dDc755cD9eb384E",
+		"stationGasCombinationId": "HTM CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_HTM",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HTM&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xb59C948517b8e1Ff964533E69511c350cEFa03Eb",
+		"explorerLink": "https://snowtrace.io/address/0xb59C948517b8e1Ff964533E69511c350cEFa03Eb",
+		"stationGasCombinationId": "IPR CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_IPR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=IPR&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x2c4b88d93748735eb7b1924D03aCE996B57E8eBD",
+		"explorerLink": "https://snowtrace.io/address/0x2c4b88d93748735eb7b1924D03aCE996B57E8eBD",
+		"stationGasCombinationId": "IPR CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_IPR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=IPR&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x08Ba9C767D03f61EaA39bb85A0c7E86E3Ab543A8",
+		"explorerLink": "https://snowtrace.io/address/0x08Ba9C767D03f61EaA39bb85A0c7E86E3Ab543A8",
+		"stationGasCombinationId": "IPR CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_IPR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=IPR&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xcd6083A3EcD9de87e84A2d7Af96CE8b32A41c8dF",
+		"explorerLink": "https://snowtrace.io/address/0xcd6083A3EcD9de87e84A2d7Af96CE8b32A41c8dF",
+		"stationGasCombinationId": "JFJ CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JFJ",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JFJ&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xea9de4760c72F306877cE418C1096017a31c3De7",
+		"explorerLink": "https://snowtrace.io/address/0xea9de4760c72F306877cE418C1096017a31c3De7",
+		"stationGasCombinationId": "JFJ CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JFJ",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JFJ&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x5375bECA388C6BD32F90F1983Da677cd611AFCA8",
+		"explorerLink": "https://snowtrace.io/address/0x5375bECA388C6BD32F90F1983Da677cd611AFCA8",
+		"stationGasCombinationId": "JFJ CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JFJ",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JFJ&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x56522d4C7003e873a7e07e630f4513F1fFb40723",
+		"explorerLink": "https://snowtrace.io/address/0x56522d4C7003e873a7e07e630f4513F1fFb40723",
+		"stationGasCombinationId": "JFJ N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JFJ",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JFJ&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xC88a890019d33e7Bbc948eF2D479846e3e58F409",
+		"explorerLink": "https://snowtrace.io/address/0xC88a890019d33e7Bbc948eF2D479846e3e58F409",
+		"stationGasCombinationId": "JUE CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JUE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JUE&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x2A1Ef41B18a9152c47862582cf7A599398c5FaF0",
+		"explorerLink": "https://snowtrace.io/address/0x2A1Ef41B18a9152c47862582cf7A599398c5FaF0",
+		"stationGasCombinationId": "JUE CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JUE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JUE&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x289832C2385eC9ED851087e4bc1568B595BD4382",
+		"explorerLink": "https://snowtrace.io/address/0x289832C2385eC9ED851087e4bc1568B595BD4382",
+		"stationGasCombinationId": "JUE CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JUE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JUE&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x126A0e306BFE33B009f393394E24E734641f866c",
+		"explorerLink": "https://snowtrace.io/address/0x126A0e306BFE33B009f393394E24E734641f866c",
+		"stationGasCombinationId": "JUE N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_JUE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=JUE&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xee997897c82B4aA071F4cB72888f72088967369E",
+		"explorerLink": "https://snowtrace.io/address/0xee997897c82B4aA071F4cB72888f72088967369E",
+		"stationGasCombinationId": "KIT CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KIT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KIT&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x9EFC601923b1092CBED679FC31f609583d893322",
+		"explorerLink": "https://snowtrace.io/address/0x9EFC601923b1092CBED679FC31f609583d893322",
+		"stationGasCombinationId": "KIT CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KIT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KIT&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xc335fE3FCFcc22F8B671869c1bb78f62f8127FB9",
+		"explorerLink": "https://snowtrace.io/address/0xc335fE3FCFcc22F8B671869c1bb78f62f8127FB9",
+		"stationGasCombinationId": "KIT CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KIT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KIT&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x4C0BB794340A734a0c81F48E791FF4fdF63977DC",
+		"explorerLink": "https://snowtrace.io/address/0x4C0BB794340A734a0c81F48E791FF4fdF63977DC",
+		"stationGasCombinationId": "KIT N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KIT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KIT&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x908584BE2AAA6313cD57d60651a3aEc2aDD033A9",
+		"explorerLink": "https://snowtrace.io/address/0x908584BE2AAA6313cD57d60651a3aEc2aDD033A9",
+		"stationGasCombinationId": "KRE CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KRE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KRE&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x61d6CEa23E5A7334ceF20f06362564E85565D108",
+		"explorerLink": "https://snowtrace.io/address/0x61d6CEa23E5A7334ceF20f06362564E85565D108",
+		"stationGasCombinationId": "KRE CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KRE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KRE&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x3A57cbEFD1D156cF03A9E6A3566C0fb9D8d8589b",
+		"explorerLink": "https://snowtrace.io/address/0x3A57cbEFD1D156cF03A9E6A3566C0fb9D8d8589b",
+		"stationGasCombinationId": "KRE CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KRE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KRE&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xD534CA6a88cEb29599308157a5EB91e7A9989c95",
+		"explorerLink": "https://snowtrace.io/address/0xD534CA6a88cEb29599308157a5EB91e7A9989c95",
+		"stationGasCombinationId": "KRE N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_KRE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=KRE&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x717017652C1b7E982DaFbEA7182E098A29E53Ce6",
+		"explorerLink": "https://snowtrace.io/address/0x717017652C1b7E982DaFbEA7182E098A29E53Ce6",
+		"stationGasCombinationId": "LIN CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LIN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LIN&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xA1d14a1fca8e6a0F76da98f13aCC5151F4F4A998",
+		"explorerLink": "https://snowtrace.io/address/0xA1d14a1fca8e6a0F76da98f13aCC5151F4F4A998",
+		"stationGasCombinationId": "LIN CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LIN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LIN&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xcFd440334faf8Eb82700598d5AE4EAB7830DcD24",
+		"explorerLink": "https://snowtrace.io/address/0xcFd440334faf8Eb82700598d5AE4EAB7830DcD24",
+		"stationGasCombinationId": "LIN CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LIN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LIN&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xc499aA805D6AE3f9dE5B03Ab15c28AAf4AD600Cc",
+		"explorerLink": "https://snowtrace.io/address/0xc499aA805D6AE3f9dE5B03Ab15c28AAf4AD600Cc",
+		"stationGasCombinationId": "LIN N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LIN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LIN&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xE74872E00980bc24034C074Af2572057976eF1f0",
+		"explorerLink": "https://snowtrace.io/address/0xE74872E00980bc24034C074Af2572057976eF1f0",
+		"stationGasCombinationId": "LMP CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LMP",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LMP&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xA2E9e50EC74fEb5507eeAfE4eC9474F91364517A",
+		"explorerLink": "https://snowtrace.io/address/0xA2E9e50EC74fEb5507eeAfE4eC9474F91364517A",
+		"stationGasCombinationId": "LMP CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LMP",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LMP&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xD0DaD69287593f790D1B4359E3D3027FbEe31398",
+		"explorerLink": "https://snowtrace.io/address/0xD0DaD69287593f790D1B4359E3D3027FbEe31398",
+		"stationGasCombinationId": "LMP CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LMP",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LMP&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x628C4381a2F618E1df3285b9635a1a4817FE039c",
+		"explorerLink": "https://snowtrace.io/address/0x628C4381a2F618E1df3285b9635a1a4817FE039c",
+		"stationGasCombinationId": "LUT CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LUT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LUT&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x67F54405a267A74C33874c6A21D44f5FbcbDf17B",
+		"explorerLink": "https://snowtrace.io/address/0x67F54405a267A74C33874c6A21D44f5FbcbDf17B",
+		"stationGasCombinationId": "LUT CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LUT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LUT&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x3A51afeeF6F821818ca2497e8820D715A55E2087",
+		"explorerLink": "https://snowtrace.io/address/0x3A51afeeF6F821818ca2497e8820D715A55E2087",
+		"stationGasCombinationId": "LUT CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_LUT",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=LUT&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xF5cf673F8745B56936ee3Cfc5D43ba6922Aee0AD",
+		"explorerLink": "https://snowtrace.io/address/0xF5cf673F8745B56936ee3Cfc5D43ba6922Aee0AD",
+		"stationGasCombinationId": "NOR CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_NOR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=NOR&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xa851E7B375D61A67b53B5Cd1bBF2331995038399",
+		"explorerLink": "https://snowtrace.io/address/0xa851E7B375D61A67b53B5Cd1bBF2331995038399",
+		"stationGasCombinationId": "NOR CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_NOR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=NOR&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xd993B18A9398546AEf65C5A6f9B3995ee96C0bE7",
+		"explorerLink": "https://snowtrace.io/address/0xd993B18A9398546AEf65C5A6f9B3995ee96C0bE7",
+		"stationGasCombinationId": "NOR CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_NOR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=NOR&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x72955D0D79207082073240A858c7FD03BB1E68Bd",
+		"explorerLink": "https://snowtrace.io/address/0x72955D0D79207082073240A858c7FD03BB1E68Bd",
+		"stationGasCombinationId": "OPE CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OPE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OPE&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x17C78DbBc75A6Dd009A57454A19838729d50BEdc",
+		"explorerLink": "https://snowtrace.io/address/0x17C78DbBc75A6Dd009A57454A19838729d50BEdc",
+		"stationGasCombinationId": "OPE CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OPE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OPE&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xADa4fE15A81CE11Ab4752D78C772411BD3CF1216",
+		"explorerLink": "https://snowtrace.io/address/0xADa4fE15A81CE11Ab4752D78C772411BD3CF1216",
+		"stationGasCombinationId": "OPE CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OPE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OPE&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x1915387f84863B7aC674c5a5daBd3709fcf5eCac",
+		"explorerLink": "https://snowtrace.io/address/0x1915387f84863B7aC674c5a5daBd3709fcf5eCac",
+		"stationGasCombinationId": "OPE N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OPE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OPE&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xc446449417421C103e9AE5E2EBbD03809a39f864",
+		"explorerLink": "https://snowtrace.io/address/0xc446449417421C103e9AE5E2EBbD03809a39f864",
+		"stationGasCombinationId": "OXK CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OXK",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OXK&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x9Ecb015157C13111D157Aae973C310558991d2b2",
+		"explorerLink": "https://snowtrace.io/address/0x9Ecb015157C13111D157Aae973C310558991d2b2",
+		"stationGasCombinationId": "OXK CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OXK",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OXK&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x62268a43B6C0D83f3a45dE17D24372c8DF406C08",
+		"explorerLink": "https://snowtrace.io/address/0x62268a43B6C0D83f3a45dE17D24372c8DF406C08",
+		"stationGasCombinationId": "OXK CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OXK",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OXK&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xc3Fcdde0098d7f24aAd9dA2f41c4b59afca40cb2",
+		"explorerLink": "https://snowtrace.io/address/0xc3Fcdde0098d7f24aAd9dA2f41c4b59afca40cb2",
+		"stationGasCombinationId": "OXK N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_OXK",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=OXK&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x09b5535a920c96CC045097CcD9B863957341448E",
+		"explorerLink": "https://snowtrace.io/address/0x09b5535a920c96CC045097CcD9B863957341448E",
+		"stationGasCombinationId": "PAL CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PAL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PAL&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x0071571b925F24C893857728A311cC39D0afD834",
+		"explorerLink": "https://snowtrace.io/address/0x0071571b925F24C893857728A311cC39D0afD834",
+		"stationGasCombinationId": "PAL CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PAL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PAL&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xAd7d5c459FaB9B6baaD6820bB86B33A6352e65DC",
+		"explorerLink": "https://snowtrace.io/address/0xAd7d5c459FaB9B6baaD6820bB86B33A6352e65DC",
+		"stationGasCombinationId": "PAL CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PAL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PAL&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xB8020388Bf2cDf32BEB32647D71E4D5468709dc7",
+		"explorerLink": "https://snowtrace.io/address/0xB8020388Bf2cDf32BEB32647D71E4D5468709dc7",
+		"stationGasCombinationId": "PRS CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PRS",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PRS&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xD6b28aA6Ecd0d43262d1e8420Fac64F9a78379E7",
+		"explorerLink": "https://snowtrace.io/address/0xD6b28aA6Ecd0d43262d1e8420Fac64F9a78379E7",
+		"stationGasCombinationId": "PRS CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PRS",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PRS&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x483C3eC2aE4d0BcADe6B868580556950bc146E4b",
+		"explorerLink": "https://snowtrace.io/address/0x483C3eC2aE4d0BcADe6B868580556950bc146E4b",
+		"stationGasCombinationId": "PRS CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PRS",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PRS&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x4C20a7CB2462F491B951edcD1A7a284292545dB4",
+		"explorerLink": "https://snowtrace.io/address/0x4C20a7CB2462F491B951edcD1A7a284292545dB4",
+		"stationGasCombinationId": "PUI CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUI",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUI&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x140F4172BB7507666D3d815efCa0DCD70C43e996",
+		"explorerLink": "https://snowtrace.io/address/0x140F4172BB7507666D3d815efCa0DCD70C43e996",
+		"stationGasCombinationId": "PUI CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUI",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUI&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x6190021a94e8089A1fccAB03D257F2937B92D399",
+		"explorerLink": "https://snowtrace.io/address/0x6190021a94e8089A1fccAB03D257F2937B92D399",
+		"stationGasCombinationId": "PUI CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUI",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUI&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x2F6bC62FaB9CAfa07C13D4e66B73968A46CbD8e8",
+		"explorerLink": "https://snowtrace.io/address/0x2F6bC62FaB9CAfa07C13D4e66B73968A46CbD8e8",
+		"stationGasCombinationId": "PUY CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUY",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUY&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xDf2016C63957B133D4843eC006BC3A80c9f64569",
+		"explorerLink": "https://snowtrace.io/address/0xDf2016C63957B133D4843eC006BC3A80c9f64569",
+		"stationGasCombinationId": "PUY CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUY",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUY&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x0dFd2A9CC54c66d48d22ba1AB26914f3322C9471",
+		"explorerLink": "https://snowtrace.io/address/0x0dFd2A9CC54c66d48d22ba1AB26914f3322C9471",
+		"stationGasCombinationId": "PUY CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUY",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUY&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x7B89FcB4E2Cc744189ce5faD1Cb734cCbBDecBA3",
+		"explorerLink": "https://snowtrace.io/address/0x7B89FcB4E2Cc744189ce5faD1Cb734cCbBDecBA3",
+		"stationGasCombinationId": "PUY N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_PUY",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=PUY&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x068fD0EB1c09d8c4d110668392550d60485B1F64",
+		"explorerLink": "https://snowtrace.io/address/0x068fD0EB1c09d8c4d110668392550d60485B1F64",
+		"stationGasCombinationId": "RGL CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_RGL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=RGL&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xf47718Cbf9A6E167c968fc2b33df21d9724506C5",
+		"explorerLink": "https://snowtrace.io/address/0xf47718Cbf9A6E167c968fc2b33df21d9724506C5",
+		"stationGasCombinationId": "RGL CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_RGL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=RGL&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x99A516F0808DdBd6e20F69C0Aa342E80BEA957d9",
+		"explorerLink": "https://snowtrace.io/address/0x99A516F0808DdBd6e20F69C0Aa342E80BEA957d9",
+		"stationGasCombinationId": "RUN CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_RUN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=RUN&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xFc9323Ff88b9d5FCD896fb3e2510CD95cb186834",
+		"explorerLink": "https://snowtrace.io/address/0xFc9323Ff88b9d5FCD896fb3e2510CD95cb186834",
+		"stationGasCombinationId": "RUN CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_RUN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=RUN&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xe67Cd1704080f60F846BAfd62F7becbc68aE864E",
+		"explorerLink": "https://snowtrace.io/address/0xe67Cd1704080f60F846BAfd62F7becbc68aE864E",
+		"stationGasCombinationId": "RUN CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_RUN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=RUN&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xB5e2b7C697875Df88eb21F3ef7f6796c8Db08Fef",
+		"explorerLink": "https://snowtrace.io/address/0xB5e2b7C697875Df88eb21F3ef7f6796c8Db08Fef",
+		"stationGasCombinationId": "SAC CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SAC",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SAC&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xa617e1cAa9A8b7B93e5d035Da497182D095f39F8",
+		"explorerLink": "https://snowtrace.io/address/0xa617e1cAa9A8b7B93e5d035Da497182D095f39F8",
+		"stationGasCombinationId": "SAC CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SAC",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SAC&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x4114380C21F1Ee2b765BB5430b239850490F49a7",
+		"explorerLink": "https://snowtrace.io/address/0x4114380C21F1Ee2b765BB5430b239850490F49a7",
+		"stationGasCombinationId": "SAC CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SAC",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SAC&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x9047bcd2de43Da593491431Cc1F34C2b9fabe740",
+		"explorerLink": "https://snowtrace.io/address/0x9047bcd2de43Da593491431Cc1F34C2b9fabe740",
+		"stationGasCombinationId": "SAC N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SAC",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SAC&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x805144F83487b2f0DA8F067c33b85274352Cc483",
+		"explorerLink": "https://snowtrace.io/address/0x805144F83487b2f0DA8F067c33b85274352Cc483",
+		"stationGasCombinationId": "SMR CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SMR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SMR&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x463dF202936e211b4947FE99078005936Aaac3Fe",
+		"explorerLink": "https://snowtrace.io/address/0x463dF202936e211b4947FE99078005936Aaac3Fe",
+		"stationGasCombinationId": "SMR CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SMR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SMR&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xE3E0d9C0c7a26Be530C52a2328F69709700fCB7c",
+		"explorerLink": "https://snowtrace.io/address/0xE3E0d9C0c7a26Be530C52a2328F69709700fCB7c",
+		"stationGasCombinationId": "SMR CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SMR",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SMR&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xB08B5089d657fB8FB29C4d15b30FbC23e7F42EeA",
+		"explorerLink": "https://snowtrace.io/address/0xB08B5089d657fB8FB29C4d15b30FbC23e7F42EeA",
+		"stationGasCombinationId": "SNO CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SNO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SNO&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x316FaaA47d829Ef9dA12219161257e32665A8AA0",
+		"explorerLink": "https://snowtrace.io/address/0x316FaaA47d829Ef9dA12219161257e32665A8AA0",
+		"stationGasCombinationId": "SNO CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SNO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SNO&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x20D69ef762085EBD8B9727C7f9F98434ce3C392B",
+		"explorerLink": "https://snowtrace.io/address/0x20D69ef762085EBD8B9727C7f9F98434ce3C392B",
+		"stationGasCombinationId": "SSL CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SSL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SSL&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x5f894d8625263793C19c5f62a4f8a065406bB0f8",
+		"explorerLink": "https://snowtrace.io/address/0x5f894d8625263793C19c5f62a4f8a065406bB0f8",
+		"stationGasCombinationId": "SSL CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SSL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SSL&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xb99e97647b6B796B546d0c8a47835985905EB3d6",
+		"explorerLink": "https://snowtrace.io/address/0xb99e97647b6B796B546d0c8a47835985905EB3d6",
+		"stationGasCombinationId": "SSL CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SSL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SSL&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xf8BaE6137Fd2899DE9cA6AD52986CD3eA3Ba402e",
+		"explorerLink": "https://snowtrace.io/address/0xf8BaE6137Fd2899DE9cA6AD52986CD3eA3Ba402e",
+		"stationGasCombinationId": "SSL N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SSL",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SSL&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x9032aA64214C97B5ad69Af2EBad70F55348A4FC8",
+		"explorerLink": "https://snowtrace.io/address/0x9032aA64214C97B5ad69Af2EBad70F55348A4FC8",
+		"stationGasCombinationId": "STE CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_STE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=STE&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x8faDd1591DEF8Fe37C3341ff5C1A2dE3796e4574",
+		"explorerLink": "https://snowtrace.io/address/0x8faDd1591DEF8Fe37C3341ff5C1A2dE3796e4574",
+		"stationGasCombinationId": "STE CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_STE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=STE&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xfB2166ecc65a01A4b3c4f36b049966b4928cC00e",
+		"explorerLink": "https://snowtrace.io/address/0xfB2166ecc65a01A4b3c4f36b049966b4928cC00e",
+		"stationGasCombinationId": "STE CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_STE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=STE&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x488Af06f2D45914EC134FBe7007545C1165B1dD4",
+		"explorerLink": "https://snowtrace.io/address/0x488Af06f2D45914EC134FBe7007545C1165B1dD4",
+		"stationGasCombinationId": "STE N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_STE",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=STE&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xADf1A19a75f21f2cFB57d94dAA9C6BAb37F9037F",
+		"explorerLink": "https://snowtrace.io/address/0xADf1A19a75f21f2cFB57d94dAA9C6BAb37F9037F",
+		"stationGasCombinationId": "SVB CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SVB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SVB&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xd2739760011b8e15FB171e1153F429BEE7219C69",
+		"explorerLink": "https://snowtrace.io/address/0xd2739760011b8e15FB171e1153F429BEE7219C69",
+		"stationGasCombinationId": "SVB CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SVB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SVB&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x97a9fA94d1a6078c3f2593A8bB6396F22211Da49",
+		"explorerLink": "https://snowtrace.io/address/0x97a9fA94d1a6078c3f2593A8bB6396F22211Da49",
+		"stationGasCombinationId": "SVB CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_SVB",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=SVB&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x1F590e99960B34b72bE4f46E089e3D02a6835f6c",
+		"explorerLink": "https://snowtrace.io/address/0x1F590e99960B34b72bE4f46E089e3D02a6835f6c",
+		"stationGasCombinationId": "TOH CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TOH",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TOH&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xb35B7E04dc2F44A1aA8d71AdaF01bab09EC5D9c9",
+		"explorerLink": "https://snowtrace.io/address/0xb35B7E04dc2F44A1aA8d71AdaF01bab09EC5D9c9",
+		"stationGasCombinationId": "TOH CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TOH",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TOH&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xE9AEb172AeF2CcfA8D1A1D809Cc0A06F08eB60bE",
+		"explorerLink": "https://snowtrace.io/address/0xE9AEb172AeF2CcfA8D1A1D809Cc0A06F08eB60bE",
+		"stationGasCombinationId": "TOH CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TOH",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TOH&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xf82d6CBDb05Bf6E0947af6a14DA93fB1dE9485bf",
+		"explorerLink": "https://snowtrace.io/address/0xf82d6CBDb05Bf6E0947af6a14DA93fB1dE9485bf",
+		"stationGasCombinationId": "TOH N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TOH",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TOH&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x4853Dec4Ae0aA5ef4b7D9E61a2EF1f8916B2Ac52",
+		"explorerLink": "https://snowtrace.io/address/0x4853Dec4Ae0aA5ef4b7D9E61a2EF1f8916B2Ac52",
+		"stationGasCombinationId": "TRN CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TRN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TRN&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x2312bDf2A4A7BAE4452745B5E8988905e6072901",
+		"explorerLink": "https://snowtrace.io/address/0x2312bDf2A4A7BAE4452745B5E8988905e6072901",
+		"stationGasCombinationId": "TRN CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TRN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TRN&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x47629237349Ed4B1E54566fd8cdAA8b2F9C32E2d",
+		"explorerLink": "https://snowtrace.io/address/0x47629237349Ed4B1E54566fd8cdAA8b2F9C32E2d",
+		"stationGasCombinationId": "TRN CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TRN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TRN&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x58E994Bc958aA68b1F79997f9E3A556B9206F025",
+		"explorerLink": "https://snowtrace.io/address/0x58E994Bc958aA68b1F79997f9E3A556B9206F025",
+		"stationGasCombinationId": "TRN N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_TRN",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=TRN&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0xb324a29830E1F18AF8e9ede5E72Cf71044eD9808",
+		"explorerLink": "https://snowtrace.io/address/0xb324a29830E1F18AF8e9ede5E72Cf71044eD9808",
+		"stationGasCombinationId": "UTO CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_UTO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=UTO&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xF5C2D939593C34F46254957B40754daadB43995E",
+		"explorerLink": "https://snowtrace.io/address/0xF5C2D939593C34F46254957B40754daadB43995E",
+		"stationGasCombinationId": "UTO CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_UTO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=UTO&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x3Aaf8e673867F3bd146671a4D6B5D554949aD894",
+		"explorerLink": "https://snowtrace.io/address/0x3Aaf8e673867F3bd146671a4D6B5D554949aD894",
+		"stationGasCombinationId": "UTO CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_UTO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=UTO&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x55F8dd0A17dD7Dee7dAf1f19989a615b0FcA82B3",
+		"explorerLink": "https://snowtrace.io/address/0x55F8dd0A17dD7Dee7dAf1f19989a615b0FcA82B3",
+		"stationGasCombinationId": "WAO CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_WAO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=WAO&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0xeC725A04f11aF1552F401513E138b752af5fC182",
+		"explorerLink": "https://snowtrace.io/address/0xeC725A04f11aF1552F401513E138b752af5fC182",
+		"stationGasCombinationId": "WAO CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_WAO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=WAO&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x566EB53B198a3e505cfCd5f03cd009B5c26E5963",
+		"explorerLink": "https://snowtrace.io/address/0x566EB53B198a3e505cfCd5f03cd009B5c26E5963",
+		"stationGasCombinationId": "WAO CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_WAO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=WAO&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xaE6d96E09eCacde6233B7C5f75C05b14f3a015EB",
+		"explorerLink": "https://snowtrace.io/address/0xaE6d96E09eCacde6233B7C5f75C05b14f3a015EB",
+		"stationGasCombinationId": "WAO N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_WAO",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=WAO&gasName=N2O"
+	},
+	{
+		"fluxSmartContractAddress": "0x75cE01CB205E7fa8523bCfE4eE5290E71E353414",
+		"explorerLink": "https://snowtrace.io/address/0x75cE01CB205E7fa8523bCfE4eE5290E71E353414",
+		"stationGasCombinationId": "WES CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_WES",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=WES&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x9B409E09465484E680095C02283ee5d207d42Eb5",
+		"explorerLink": "https://snowtrace.io/address/0x9B409E09465484E680095C02283ee5d207d42Eb5",
+		"stationGasCombinationId": "WES CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_WES",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=WES&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xFf5062759876824601799F5Aa781dd585F89dd26",
+		"explorerLink": "https://snowtrace.io/address/0xFf5062759876824601799F5Aa781dd585F89dd26",
+		"stationGasCombinationId": "ZEP CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZEP",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZEP&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x8ab9507416AAe31Eb8b82257f6b0F74633c45858",
+		"explorerLink": "https://snowtrace.io/address/0x8ab9507416AAe31Eb8b82257f6b0F74633c45858",
+		"stationGasCombinationId": "ZEP CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZEP",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZEP&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0xF795faDF907664764969AD960a308e77ED51dA68",
+		"explorerLink": "https://snowtrace.io/address/0xF795faDF907664764969AD960a308e77ED51dA68",
+		"stationGasCombinationId": "ZEP CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZEP",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZEP&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0x7C270A9A13758596754401326E505e926fCd8896",
+		"explorerLink": "https://snowtrace.io/address/0x7C270A9A13758596754401326E505e926fCd8896",
+		"stationGasCombinationId": "ZSF CH4",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZSF",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZSF&gasName=CH4"
+	},
+	{
+		"fluxSmartContractAddress": "0x2b6C667368298D2eA61c1741382AC68dDf5064b1",
+		"explorerLink": "https://snowtrace.io/address/0x2b6C667368298D2eA61c1741382AC68dDf5064b1",
+		"stationGasCombinationId": "ZSF CO",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZSF",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZSF&gasName=CO"
+	},
+	{
+		"fluxSmartContractAddress": "0x6A874de9224d658a6c2d17c6E6432429d659ae5F",
+		"explorerLink": "https://snowtrace.io/address/0x6A874de9224d658a6c2d17c6E6432429d659ae5F",
+		"stationGasCombinationId": "ZSF CO2",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZSF",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZSF&gasName=CO2"
+	},
+	{
+		"fluxSmartContractAddress": "0xfDeF1Fd3418E56DbDD0c98D7DbC54FC9F7cDd9e3",
+		"explorerLink": "https://snowtrace.io/address/0xfDeF1Fd3418E56DbDD0c98D7DbC54FC9F7cDd9e3",
+		"stationGasCombinationId": "ZSF N2O",
+		"stationIcosLink": "http://meta.icos-cp.eu/resources/stations/AS_ZSF",
+		"hyphenApiLink_gasValueDailyAvarage_getLatest": "https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=ZSF&gasName=N2O"
+	}
+]
