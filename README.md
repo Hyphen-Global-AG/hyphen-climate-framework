@@ -27,66 +27,9 @@ Our Framework allows to query and verify [atmospheric gas timeseries from ICOS](
 
 - [N2O](https://en.wikipedia.org/wiki/Nitrous_oxide) / [ICOS Data](https://data.icos-cp.eu/portal/#%7B%22filterCategories%22%3A%7B%22project%22%3A%5B%22icos%22%5D%2C%22level%22%3A%5B1%2C2%5D%2C%22stationclass%22%3A%5B%22ICOS%22%5D%2C%22theme%22%3A%5B%22atmosphere%22%5D%7D%2C%22filterKeywords%22%3A%5B%22N2O%22%5D%7D) (Prototype)
 
-# Consumer Smart Contract
+# Oracles for Greenhouse Gases Daily Averages 
 
-COMMENT: we need to document all contracts and review what methods belong to what contract, wich ones are private (only for oracle owner / node operators) and which ones are for endconsumers. 
-
-Contract Code (GIT): https://github.com/Hyphen-Global-AG/hyphen-climate-framework/blob/main/ClimateConsumer.sol
-
-- Solidity version (pragma solidity ^0.8.7;)
-- Compile with Remix (https://remix.ethereum.org/) using Injected Web3, set deployed address in remix (At Address) - 
-
-**Hyphen Climate Framework Contract Address**
-
-*NOTE 16/02/2022 - oracle contract addresses updated.
-
-(Ethereum - Rinkeby)
-> 0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3
-Etherscan Rinkeby: [0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3](https://rinkeby.etherscan.io/address/0xD04f581A8B5fb464BCfFBc24f9719846d9071Bc3)
-
-(Ethereum - Mainnet)
-> 0x352e2178BdccB5306D3e42F3a593a0692d49319B
-Etherscan Mainnet: [0x352e2178BdccB5306D3e42F3a593a0692d49319B](https://etherscan.io/address/0x352e2178BdccB5306D3e42F3a593a0692d49319B)
-
-**Parameter Definitions**
-
-| Parameter | Description | DataType |
-| ------ | ------ | ------ |
-| stationId | Id of measurement station | string | 
-| heightId | measurement height | string | 
-| startDate | measurement start date | string | 
-| startTime | measurement end date | string | 
-| endTime | measurement start time | string | 
-| payment | measurement end time | uint256 | 
-| requestId | Id of request | bytes32 | 
-| callbackFunctionId | Id of callbackFunction | bytes4 | 
-| expiration | expiration time | uint256 | 
-| hash | FileHash | bytes32 | 
-| JobId | Id of Job | string | 
-| oracle | Oracle Address | address | 
-| oracleFee | Oracle call fee amount | uint256 | 
-
-**Contract Methods**
-
-| Method | Description | Parameter (use in order!) |
-| ------ | ------ | ------ |
-| requestClimateHash | Returns file hash via Chainlink Oracle | stationId, heightId, startDate, endDate, startTime, endTime |
-| getFileHashforParams | Returns the file hash after it has been delivered by Oracle | stationId, heightId, startDate, endDate, startTime, endTime |
-| generateRequestHash | Generates a hash of input parameters | stationId, heightId, startDate, endDate, startTime, endTime |
-| fullfillClimateHash* | Fullfills hash request | requestId, hash |
-| cancelRequest | cancel the current request | requestId, payment, callbackFunctionId, expiration |
-| setJobId | set the Job ID in the Chainlink node | jobId |
-| setOracle | sets the Oracle for the contract | oracle |
-| setOracleFee | sets the fee for the oracle call in LINK | oracleFee |
-| transferOwnership (TBD) | transfer ownership to recipient's address | address |
-| whitdrawLink (TBD) | transfer LINK tokens from this contract instance to reciepient's address | address |
-| getChainlinkToken | get the address of the Chainlink token (rarely needed) | -- |
-| hashes | map containing the relation between request and file hashes | -- |
-| jobId | returns the Job ID | -- |
-| oracle | returns contract oracle address | -- |
-| ORACLE_PAYMENT | returns the fee for Chainlink usage in LINK | -- |
-| owner | returns contract owner address | -- |
-\* private methods
+- Documentation Update outstanding (08/02/2023)
 
 # Hyphen Climate Rest API
 
