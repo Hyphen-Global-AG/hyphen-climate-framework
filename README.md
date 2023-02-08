@@ -13,7 +13,6 @@ Find more information on Hyphen Global and our initiatives on our website https:
 
 <a href="https://chain.link/"><img src="https://coingawk.com/wp-content/uploads/2020/01/Chainlink_logo.jpg" alt="Chainlink" width="300"/></a>
 <a href="https://www.icos-cp.eu/index.php/"><img src="https://www.icos-cp.eu/sites/default/files/2020-04/ICOS_logo_rgb_regular.png" alt="Integrated Carbon Observation System" width="200"/></a>
-<a href="https://ethereum.org/en/"><img src="https://logospng.org/download/ethereum/logo-ethereum-4096.png](https://miro.medium.com/max/1000/0*7C4c-JdFcK3iES5P.png" alt="Ethereum" width="200"/></a>
 # Quick Start
 
 Our Framework allows to query and verify [atmospheric gas timeseries from ICOS](https://data.icos-cp.eu/portal/#%7B%22filterCategories%22%3A%7B%22project%22%3A%5B%22icos%22%5D%2C%22level%22%3A%5B1%2C2%5D%2C%22stationclass%22%3A%5B%22ICOS%22%5D%2C%22theme%22%3A%5B%22atmosphere%22%5D%7D%2C%22filterKeywords%22%3A%5B%22N2O%22%5D%7D) (Prototype).
