@@ -44,13 +44,13 @@ Endpoint: `https://portal-api.hyphen.earth/`
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
+| stationCode | query | Station name: e.g. `HPB, WAO, ZEP, ZSF` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `MM`  | Yes | integer |
 | day | query | Day, format: `DD` | Yes | integer |
 
 ##### Example
-Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_oneStationAllGases_specifiedDate?cpmetaStationId=HPB&year=2022&month=11&day=11`
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_oneStationAllGases_specifiedDate?stationCode=HPB&year=2022&month=11&day=11`
 
 -------------------------------------------------------------------------------------------------------
 
