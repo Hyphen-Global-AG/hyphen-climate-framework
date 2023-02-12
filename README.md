@@ -101,14 +101,14 @@ Request URL: `https://portal-api.hyphen.earth/api/layers`
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| stationCode | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
 | gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `M`  | Yes | integer |
 | day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
-Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage?cpmetaStationId=HPB&gasName=CO2&year=2022&month=11&day=11`
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage?stationCode=HPB&gasName=CO2&year=2022&month=11&day=11`
 
 -------------------------------------------------------------------------------------------------------
 
@@ -121,14 +121,14 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| stationCode | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
 | gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `M`  | Yes | integer |
 | day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
-Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_detailed?cpmetaStationId=HPB&gasName=CO2&year=2022&month=11&day=11`
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_detailed?stationCode=HPB&gasName=CO2&year=2022&month=11&day=11`
 
 -------------------------------------------------------------------------------------------------------
 
@@ -141,11 +141,11 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| stationCode | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
 | gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 
 ##### Example
-Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?cpmetaStationId=HPB&gasName=CO2`
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest?stationCode=HPB&gasName=CO2`
 
 -------------------------------------------------------------------------------------------------------
 
@@ -158,11 +158,11 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| stationCode | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
 | gasName | query | Gas name, e.g.: `CO2, CH4` | Yes | string |
 
 ##### Example
-Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest_detailed?cpmetaStationId=HPB&gasName=CO2`
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_latest_detailed?stationCode=HPB&gasName=CO2`
 
 -------------------------------------------------------------------------------------------------------
 
@@ -175,13 +175,13 @@ Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyav
 
 | Name | Located in | Description | Required | Schema |
 | ---- | ---------- | ----------- | -------- | ---- |
-| cpmetaStationId | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
+| stationCode | query | Station code, e.g.: `HPB, WAO, ZEP, ZSF` | Yes | string |
 | year | query | Year, format: `YYYY` | Yes | integer |
 | month | query | Month, format: `M`  | Yes | integer |
 | day | query | Day, format: `D` | Yes | integer |
 
 ##### Example
-Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_oneStationAllGases_specifiedDate?cpmetaStationId=HPB&year=2022&month=11&day=11`
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_allheights_dailyaverage_combinations_oneStationAllGases_specifiedDate?stationCode=HPB&year=2022&month=11&day=11`
 
 -------------------------------------------------------------------------------------------------------
 
