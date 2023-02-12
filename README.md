@@ -35,6 +35,25 @@ Endpoint: `https://portal-api.hyphen.earth/`
 
 -------------------------------------------------------------------------------------------------------
 
+### /api/station_gas_measured
+
+**Description:** 
+Returns information about what we have in our database:  
+- averagingIntervals;  
+- stations;  
+- gases;  
+- responsibleOrganizations;  
+- gasesMeasured: **a list of measurements ranges for each gas/averagingInterval combination;**  
+- stationGasMeasuredCombinations: a list of measurements ranges for each station/gas/averagingInterval combination.  
+
+#### GET
+##### Parameters: No parameters 
+
+##### Example
+Request URL: `https://portal-api.hyphen.earth/api/station_gas_measured`
+
+-------------------------------------------------------------------------------------------------------
+
 ### /api/stations
 
 **Description:** Returns a list of all measurement stations
